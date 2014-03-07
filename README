@@ -1,0 +1,8 @@
+README March 3-7
+
+1. Read about different MSA methods and Tree building methods
+2. Make a file with notes on the msa and tree building methods
+    saved in Dropbox/Code/notes_msa_algorithms.txt
+3. Write a script to do msa with clustal
+    saved in clustal_test/clustal_test.py
+4. Write msa_tree.py script that will call both MAFFT and FastTree
